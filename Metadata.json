@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 4971,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/download-and-parse-iis-logs-from-a-windows-azure-web-site/master/Get-AzureWebsiteLogAnalysis.ps1",
+    "DownloadCount": 4318,
+    "Id": "and-Parse-IIS-logs-from-a-9b85431b",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 441,
+    "RaterCount": 4,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Downloads IIS logs from an Azure Website and searches the log for any HTTP 400 and above status codes.If Http logging is not enabled on the website, then it will enable logging if the EnableHttpLogging switch is specified.",
+    "Title": "Download and Parse IIS logs from a Windows Azure Web Site",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/download-and-parse-iis-logs-from-a-windows-azure-web-site",
+    "UserTags": "Utility, Remediation"
+}
